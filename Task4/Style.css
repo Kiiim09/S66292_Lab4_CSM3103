@@ -1,0 +1,11 @@
+#paragraph { 
+    padding: 20px; 
+    border: 1px solid black; 
+    cursor: pointer; 
+} 
+
+#textfield { 
+    padding: 10px; 
+    font-size: 16px; 
+    transition: all 0.3s ease; 
+} 
